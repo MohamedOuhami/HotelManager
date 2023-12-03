@@ -27,7 +27,9 @@ Pour lancer et exécuter le projet avec succès, suivez les étapes décrites ci
 
 ## Vidéo de Démonstration
 
-Pour un guide visuel sur le lancement et l'utilisation du projet, consultez la [vidéo de démonstration](assets/2023-12-03%2023-19-24.mkv).
+Pour un guide visuel sur le lancement et l'utilisation du projet, consultez la video de demonstration
+
+https://github.com/MohamedOuhami/HotelManager/assets/60238938/8d23f748-2307-45c4-80dc-6481fc31c91e
 
 ## Technologies Utilisées
 
